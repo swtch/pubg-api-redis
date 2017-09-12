@@ -60,6 +60,7 @@ Example output with profile.getStats()
   "match": "solo",
   "lastUpdated": "2017-08-26T07:04:22.1761241Z",
   "playerName": "fak3zito",
+  "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c8/c8c5022fe31e910970cf0390a8d40dea2572c0cf.jpg"
   "performance": {
     "killDeathRatio": 3.9,
     "winRatio": 12.59,
